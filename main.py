@@ -1,5 +1,5 @@
-a = input('enter your age')
-b = input('enter your brother age')
+a = input('enter your age\n')
+b = input('enter your brother age\n')
 if a>b:
  print('You are elder')
 elif a == b:
